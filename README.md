@@ -1,11 +1,11 @@
 <h1 align="center">Hello there!, I'm Lautaro🐧</h1>
 <h3 align="center">A passionate former developer from Argentina!</h3>
 
-- 🔭 I’m currently working on **getting a gf and being a millionarie!🫂**
-
 - 🌱 I’m currently learning about **Frameworks and frontend languages!👽**
 
-- ⚡ **I am a passionate car fan and a gymrat !🏎 💪**
+- 🔭 I’m currently working on **getting a gf and being a millionarie!🫂**
+
+- ⚡ **I am a car fan and a gymrat !🏎 💪**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
