@@ -1,8 +1,6 @@
 <h1 align="center">Hello there!, I'm Lautaro🐧</h1>
 <h3 align="center">A passionate former developer from Argentina!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lautarovelez" alt="lautarovelez" /></a> </p>
-
 - 🔭 I’m currently working on **getting a gf!🫂**
 
 - 🌱 I’m currently learning about **Frameworks and frontend languages!👽**
