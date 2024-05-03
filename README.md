@@ -1,9 +1,9 @@
 <h1 align="center">Hello there!, I'm Lautaro.</h1>
 <h3 align="center">A passionate former developer from Argentina!</h3>
 
-- 🔭 I’m currently working on **learning frontend and backend lenguages!👽**
+- 🔭 I’m currently working on **A Suicide Care Website with React!👽**
 
-- 🌱 I’m currently learning **about Frameworks like framer motion and UX/UI!**
+- 🌱 I’m currently learning **about Frameworks like framer motion and UX/UI design. Also, im doing the Fullstack course from OdinProject and im participating in XAcademy DEV by Santex!**
 
 - 📫 How to reach me **lautivelez28@gmail.com**
 
