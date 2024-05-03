@@ -1,16 +1,15 @@
-<h1 align="center">🇦🇷Hello there!, I'm Lautaro ⭐⭐⭐</h1>
+<h1 align="center">Hello there!, I'm Lautaro</h1>
 <h3 align="center">A passionate former developer from Argentina!</h3>
 
 - 🌱 I’m currently learning about **Frameworks and frontend languages!👽**
 
-- 🔭 I’m currently working on **getting a gf and being a millionarie!🫂**
+- 🔭 I’m currently working on ** A react website with framer motion to learn about transitions and animations!**
 
 - ⚡ **I am a car fan and a gymrat !🏎 💪**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/syrelvz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syrelvz" height="30" width="40" /></a>
-<a href="https://instagram.com/lauti_velez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lauti_velez" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lautaro-velez-ba345421b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LautaroVelez" height="30" width="40" /></a>
 </p>
 
 
