@@ -9,6 +9,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/lautaro-velez-ba345421b/](https://www.linkedin.com/in/lautaro-velez-ba345421b/)
 
+-  📄 Check my portolio! [https://lautarovelez.github.io/portfolio/#/portfolio](https://lautarovelez.github.io/portfolio/#/portfolio)
+
 - ⚡ Fun fact **Im a passionate car guy and i love working out!**
 
 
