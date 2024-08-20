@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A Suicide Care Website with React!👽**
 
-- 🌱 I’m currently learning **about Frameworks like framer motion and UX/UI design. Also, im doing the Fullstack course from OdinProject and im participating in XAcademy DEV by Santex!**
+- 🌱 I’m currently learning **Angular and UX/UI design. Also, im doing the Fullstack course from OdinProject and im participating in XAcademy DEV by Santex!**
 
 - 📫 How to reach me **lautivelez28@gmail.com**
 
