@@ -1,15 +1,15 @@
 <h1 align="center">Hello there!, I'm Lautaro.</h1>
 <h3 align="center">A passionate former developer from Argentina!</h3>
 
-- 🔭 I’m currently working on **A Suicide Care Website with React!👽**
+- 🔭 I’m currently working on **A Suicide Care Website with React and TypeScript!👽**
 
-- 🌱 I’m currently learning **Angular and UX/UI design. Also, im doing the Fullstack course from OdinProject and im participating in XAcademy DEV by Santex!**
+- 🌱 I’m currently learning **Angular and NodeJS. Also, im doing the Fullstack course from OdinProject and im participating in XAcademy DEV by Santex!**
 
 - 📫 How to reach me **lautivelez28@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/lautaro-velez-ba345421b/](https://www.linkedin.com/in/lautaro-velez-ba345421b/)
 
--  📄 Check my portolio! [https://lautarovelez.github.io/portfolio/#/portfolio](https://lautarovelez.github.io/portfolio/#/portfolio)
+-  📄 Check my portolio! [[https://lautarovelez.github.io/portfolio/#/portfolio](https://portfolio-lautarovelezs-projects.vercel.app/)]
 
 - ⚡ Fun fact **Im a passionate car guy and i love working out!**
 
