@@ -1,7 +1,7 @@
 <h1 align="center">Hello there!, I'm Lautaro.</h1>
 <h3 align="center">A passionate former developer from Argentina!</h3>
 
-- 🔭 I’m currently working in **High Impact!👽**
+- 🔭 I’m currently working at **High Impact!👽**
 
 - 🌱 I’m currently learning **Angular and Vue.js!**. Also, making a personal project for my personal finances.
 
